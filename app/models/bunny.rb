@@ -1,0 +1,2 @@
+class Bunny < ApplicationRecord
+end
